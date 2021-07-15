@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tamilselvan Kalimuthu</h1>
 <h3 align="center">An Android developer from Düsseldorf, Germany.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ktamilselvan1&label=Profile%20views&color=0e75b6&style=flat" alt="ktamilselvan1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ktamilselvan1" alt="ktamilselvan1" /></a> </p>
-
 - 🔭 I’m currently working on **Check24**
 
 - 👯 I’m looking to collaborate on **Github**
@@ -26,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktamilselvan1&show_icons=true&locale=en&layout=compact" alt="ktamilselvan1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktamilselvan1&show_icons=true&locale=en" alt="ktamilselvan1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktamilselvan1&" alt="ktamilselvan1" /></p>
