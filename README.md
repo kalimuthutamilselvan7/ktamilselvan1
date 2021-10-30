@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamilselvan Kalimuthu</h1>
 <h3 align="center">An Android developer from Düsseldorf, Germany.</h3>
 
-- 🔭 I’m currently working on <a href="smartrecruiters.com">**SmartRecruiters**</a>
+- 🔭 I’m currently working on <a href="www.smartrecruiters.com">**SmartRecruiters**</a>
 
 - 👯 I’m looking to collaborate on **Github**
 
